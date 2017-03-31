@@ -88,4 +88,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-hosts.txt 
+data/*.json
+data/*.csv
+data/*.db
